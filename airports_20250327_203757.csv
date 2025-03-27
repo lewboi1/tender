@@ -1,0 +1,234 @@
+id,iata,icao,airport,city,state,est_flight_ttl,est_volume_mt,timestamp
+1,TIA,LATI,Tirana/Mother Teresa,Tirana,Albania,21.0,34.0,3/15/25 10:39
+2,ALG,DAAG,Houari Boumediene,ALGER,Algeria,2.0,26.0,3/15/25 10:39
+3,EVN,UDYZ,Yerevan Zvartnots,Yerevan,Armenia,14.0,79.0,3/15/25 10:39
+4,VIE,LOWW,Vienna International,Vienna,Austria,154.0,470.0,3/15/25 10:39
+5,GRZ,LOWG,Graz International,GRAZ,Austria,2.0,13.0,3/15/25 10:39
+6,KLU,LOWK,Karntner Klagenfurt Worthersee,Klagenfurt,Austria,2.0,13.0,3/15/25 10:39
+7,LNZ,LOWL,Linz,Linz,Austria,2.0,13.0,3/15/25 10:39
+8,GYD,UBBB,Baku Heydar Aliyev International,Baku,Azerbaijan,2.0,18.0,3/15/25 10:39
+9,BAH,OBBI,Bahrain International,Manama,Bahrain,2.0,13.0,3/15/25 10:39
+10,BRU,EBBR,Brussels National,Brussels,Belgium,222.0,1150.0,3/15/25 10:39
+11,SJJ,LQSA,Sarajevo International,Sarajevo,Bosnia and Herzegovina,5.0,12.0,3/15/25 10:39
+12,OMO,LQMO,Mostar International Airport,Mostar,Bosnia and Herzegovina,2.0,2.0,3/15/25 10:39
+13,SPC,GCLA,La Palma Airport,Brena Baja,Canary islands,2.0,12.0,3/15/25 10:39
+14,SID,GVAC,Sal/Amilcar Cabral International,Sal,Cape Verde,2.0,21.0,3/15/25 10:39
+15,RJK,LDRI,Rijeka,Krk Island,Croatia,15.0,37.0,3/15/25 10:39
+16,ZAG,LDZA,Zagreb,Zagreb,Croatia,11.0,31.0,3/15/25 10:39
+17,SPU,LDSP,Split,Split,Croatia,9.0,19.0,3/15/25 10:39
+18,PUY,LDPL,Pula,Pula,Croatia,4.0,14.0,3/15/25 10:39
+19,ZAD,LDZD,Zadar Zemunik,Zadar,Croatia,2.0,13.0,3/15/25 10:39
+20,DBV,LDDU,Dubrovnik Cilipi,Dubrovnik,Croatia,2.0,7.0,3/15/25 10:39
+21,LCA,LCLK,Larnaka International,Larnaca,Cyprus,99.0,470.0,3/15/25 10:39
+22,PFO,LCPH,Paphos International (Pafos),Paphos,Cyprus,2.0,13.0,3/15/25 10:39
+23,PRG,LKPR,Ruzyne/Vaclav Havel Prague,Prague,Czech Republic,250.0,920.0,3/15/25 10:39
+24,PED,LKPD,Pardubice,Pardubice,Czech Republic,20.0,68.0,3/15/25 10:39
+25,OSR,LKMT,Ostrava Leos Janacek / Mošnov ,Ostrava,Czech Republic,10.0,35.0,3/15/25 10:39
+26,BRQ,LKTB,Brno - Turany,BRNO,Czech Republic,11.0,13.0,3/15/25 10:39
+27,KLV,LKKV,Karlovy Vary,Karlovy Vary,Czech Republic,2.0,13.0,3/15/25 10:39
+28,BLL,EKBI,Billund,Billund,Denmark,18.0,112.0,3/15/25 10:39
+29,CPH,EKCH,Copenhagen,Copenhagen,Denmark,7.0,91.0,3/15/25 10:39
+30,JIB,HDAM,Djibouti/Ambouli ,Djibouti,Djibouti,16.0,261.0,3/15/25 10:39
+31,HRG,HEGN,Hurghada International,Hurghada,Egypt,31.0,219.0,3/15/25 10:39
+32,SSH,HESH,Sharm El Sheikh International,Sharm Al Shaikh,Egypt,33.0,216.0,3/15/25 10:39
+33,LXR,HELX,Luxor International,Luxor,Egypt,17.0,178.0,3/15/25 10:39
+34,CAI,HECA,Cairo,Cairo,Egypt,11.0,100.0,3/15/25 10:39
+35,ASW,HESN,Aswan International,Aswan,Egypt,5.0,55.0,3/15/25 10:39
+36,RMF,HEMA,Marsa Alam International,Marsa Alam,Egypt,3.0,15.0,3/15/25 10:39
+37,TLL,EETN,Tallinn,Tallinn,Estonia,2.0,6.0,3/15/25 10:39
+38,RVN,EFRO,Rovaniemi,Rovaniemi,Finland,2.0,142.0,3/15/25 10:39
+39,HEL,EFHK,Helsinki Vantaa,Helsinki,Finland,2.0,12.0,3/15/25 10:39
+40,KTT,EFKT,Kittil√§ Airport,Kitty,Finland,2.0,5.0,3/15/25 10:39
+41,CDG,LFPG,Paris Charles de Gaulle,Paris,France,501.0,2760.0,3/15/25 10:39
+42,LYS,LFLL,Lyon Saint Exupery,Lyon,France,104.0,550.0,3/15/25 10:39
+43,NCE,LFMN,Nice Cote d'Azur International,Nice,France,2.0,235.0,3/15/25 10:39
+44,SXB,LFST,Strasbourg Entzheim,Strasbourg,France,4.0,27.0,3/15/25 10:39
+45,ORY,LFPO,Paris Orly,Paris,France,4.0,19.0,3/15/25 10:39
+46,BOD,LFBD,Bordeaux Merignac International,Bordeaux,France,2.0,13.0,3/15/25 10:39
+47,LIL,LFQQ,Lille Lesquin,Lille,France,2.0,13.0,3/15/25 10:39
+48,TLS,LFBO,Toulouse Blagnac,TOULOUSE - BLAGNAC,France,2.0,13.0,3/15/25 10:39
+49,MRS,LFML,Marseille Provence,Marseille,France,2.0,10.0,3/15/25 10:39
+50,AJA,LFKJ,Ajaccio-Napol√©on Bonaparte Airport,Ajaccio,France,2.0,9.0,3/15/25 10:39
+51,MLH,LFSB,EuroAirport Basel-Mulhouse-Freiburg,Basel,France,2.0,5.0,3/15/25 10:39
+52,TBS,UGTB,Shota Rustaveli Tbilisi International,Tbilisi,Georgia,4.0,17.0,3/15/25 10:39
+53,BUS,UGSB,Batumi International,Batumi,Georgia,2.0,13.0,3/15/25 10:39
+54,FRA,EDDF,Frankfurt Main International,Frankfurt,Germany,257.0,1050.0,3/15/25 10:39
+55,BER,EDDB,Berlin Brandenburg Intl ,Berlin,Germany,184.0,940.0,3/15/25 10:39
+56,LEJ,EDDP,Leipzig-Halle,Leipzig,Germany,12.0,70.0,3/15/25 10:39
+57,DUS,EDDL,Dusseldorf,Dusseldorf,Germany,10.0,50.0,3/15/25 10:39
+58,MUC,EDDM,Munich (Muenchen),Munich,Germany,12.0,50.0,3/15/25 10:39
+59,ERF,EDDE,Erfurt-Weimar,Erfurt,Germany,2.0,26.0,3/15/25 10:39
+60,CGN,EDDK,Koln Bonn (Cologne),Cologne-Bonn,Germany,2.0,13.0,3/15/25 10:39
+61,DRS,EDDC,Dresden,Dresden,Germany,2.0,13.0,3/15/25 10:39
+62,DTM,EDLW,Dortmund,Dortmund,Germany,2.0,13.0,3/15/25 10:39
+63,FMO,EDDG,Munster Osnabruck International,Munster Osnabruck,Germany,2.0,13.0,3/15/25 10:39
+64,HAJ,EDDV,Hannover-Langenhagen,Hanover,Germany,2.0,13.0,3/15/25 10:39
+65,HAM,EDDH,Hamburg,Hamburg,Germany,2.0,13.0,3/15/25 10:39
+66,NUE,EDDN,Nuernberg Albrecht Durer,Nuremberg,Germany,2.0,13.0,3/15/25 10:39
+67,STR,EDDS,Stuttgart,Stuttgart,Germany,2.0,13.0,3/15/25 10:39
+68,FKB,EDSB,Karlsruhe/Baden-Baden,Baden-Baden,Germany,4.0,10.0,3/15/25 10:39
+69,FDH,EDNY,Friedrichshafen Airport,Friedrichshafen,Germany,2.0,7.0,3/15/25 10:39
+70,FMM,EDJA,Memmingen Allgau Airport,Memmingen,Germany,2.0,7.0,3/15/25 10:39
+71,HHN,EDFH,Frankfurt-Hahn Airport,Frankfurt,Germany,2.0,2.0,3/15/25 10:39
+72,ATH,LGAV,Athens Intl Eleftherios Venizelos,Athens,Greece,155.0,350.0,3/15/25 10:39
+73,HER,LGIR,Iraklion Nikos Kazantzakis,HERAKLION,Greece,41.0,195.0,3/15/25 10:39
+74,CFU,LGKR,Kerkira Ioannis Kapodistrias Corfu,Kerkira,Greece,79.0,140.0,3/15/25 10:39
+75,ZTH,LGZA,Zakinthos Dionysios Solomos,Zakinthos,Greece,41.0,139.0,3/15/25 10:39
+76,LXS,LGLM,"Lemnos International Airport ""Hephaestus""",Lemnos,Greece,38.0,115.0,3/15/25 10:39
+77,JTR,LGSR,Santorini Thira,Thira,Greece,12.0,30.0,3/15/25 10:39
+78,KGS,LGKO,Kos Ippokratis,Kos,Greece,6.0,18.0,3/15/25 10:39
+79,CHQ,LGSA,Chania Souda I. Daskalogiannis,Chania,Greece,2.0,13.0,3/15/25 10:39
+80,KLX,LGKL,Kalamata/Capt Vassilis Constantakopoulos,Kalamata,Greece,3.0,13.0,3/15/25 10:39
+81,PVK,LGPZ,Preveza Aktio,Preveza,Greece,4.0,13.0,3/15/25 10:39
+82,JSI,LGSK,Skiathos Alexandros Papadiamantis Airport ,Skiathos,Greece,2.0,8.0,3/15/25 10:39
+83,SKG,LGTS,Thessaloniki International Macedonia/Makedonia,Thessaloniki,Greece,2.0,8.0,3/15/25 10:39
+84,JMK,LGMK,Mykonos,Mykonos,Greece,2.0,7.0,3/15/25 10:39
+85,KVA,LGKV,Kavala Alexander the Great International Airport,Kavala,Greece,2.0,7.0,3/15/25 10:39
+86,EFL,LGKF,Kefalonia International/Anna Pollatou,Kefallinia,Greece,2.0,6.0,3/15/25 10:39
+87,RHO,LGRP,Rhodes International Diagoras,Rhodes,Greece,2.0,6.0,3/15/25 10:39
+88,BUD,LHBP,Budapest International Ferenc Liszt,Budapest,Hungary,13.0,69.0,3/15/25 10:39
+89,DEB,LHDC,Debrecen International Airport,Debrecen,Hungary,13.0,52.0,3/15/25 10:39
+90,KEF,BIKF,Keflavik International,Keflavik,Iceland,2.0,26.0,3/15/25 10:39
+91,JAI,VIJP,Jaipur International Airport,Jaipur,India,2.0,17.0,3/15/25 10:39
+92,TLV,LLBG,Tel Aviv/Ben Gurion International,Tel Aviv,Israel,300.0,1850.0,3/15/25 10:39
+93,ETM,LLER,Eilat/Ilan and Assaf Ramon Intl (Timna),Eilat,Israel,2.0,13.0,3/15/25 10:39
+94,FCO,LIRF,Rome Fiumicino Leonardo da Vinci,Rome,Italy,195.0,660.0,3/15/25 10:39
+95,LIN,LIML,Milan Linate,Milan,Italy,182.0,610.0,3/15/25 10:39
+96,MXP,LIMC,Milan Malpensa,Milan,Italy,127.0,490.0,3/15/25 10:39
+97,SUF,LICA,Lamezia Terme,Lamezia,Italy,11.0,129.0,3/15/25 10:39
+98,CTA,LICC,Catania Fontanarossa/Vincenzo Bellini,Catania,Italy,2.0,75.0,3/15/25 10:39
+99,RMI,LIPR,"""Federico Fellini"" International Airport",Rimini,Italy,4.0,63.0,3/15/25 10:39
+100,TRN,LIMF,Turin Caselle Sandro Pertini (Torino),Turin,Italy,2.0,54.0,3/15/25 10:39
+101,PMO,LICJ,Palermo/Punta Raisi Falcone Borsellino,Palermo,Italy,12.0,48.0,3/15/25 10:39
+102,AHO,LIEA,Alghero Fertilia,Alghero,Italy,2.0,13.0,3/15/25 10:39
+103,GOA,LIMJ,Genoa Sestri Cristoforo Colombo,Genoa,Italy,2.0,13.0,3/15/25 10:39
+104,PSA,LIRP,Pisa International San Giusto Galileo Galilei,PISA,Italy,2.0,13.0,3/15/25 10:39
+105,AOI,LIPY,Ancona Marche,Ancona,Italy,2.0,13.0,3/15/25 10:39
+106,BGY,LIME,Milan Bergamo (Orio Al Serio),Bergamo,Italy,2.0,13.0,3/15/25 10:39
+107,BLQ,LIPE,G Marconi/Bologna Borgo Panigale,Bologna,Italy,2.0,13.0,3/15/25 10:39
+108,BRI,LIBD,Palese/Bari-Karol Wojtyla,Bari,Italy,2.0,13.0,3/15/25 10:39
+109,NAP,LIRN,Naples Capodichino (Napoli),Naples,Italy,2.0,13.0,3/15/25 10:39
+110,TRS,LIPQ,Friuli Venezia Giulia/Ronchi Dei Legionari,Trieste,Italy,2.0,13.0,3/15/25 10:39
+111,VCE,LIPZ,Venice Marco Polo Airport,Venice,Italy,2.0,13.0,3/15/25 10:39
+112,VRN,LIPX,Verona Villafranca Valerio Catullo,Verona,Italy,2.0,13.0,3/15/25 10:39
+113,CAG,LIEE,Cagliari Elmas,Cagliari,Italy,2.0,10.0,3/15/25 10:39
+114,OLB,LIEO,Olbia Costa Smeralda,Olbia,Italy,2.0,8.0,3/15/25 10:39
+115,PEG,LIRZ,Perugia San Francesco d'Assisi ‚Äì Umbria International Airport,Perugia,Italy,2.0,5.0,3/15/25 10:39
+116,AQJ,OJAQ,Aqaba King Hussein International,Aqaba,Jordan,2.0,26.0,3/15/25 10:39
+117,ALA,UAAA,Almaty International,ALMATY,Kazakhstan,2.0,30.0,3/15/25 10:39
+118,MBA,HKMO,Mombasa/Moi International ,Mombas,Kenya,5.0,221.0,3/15/25 10:39
+119,PRN,BKPR,Pristina/Limak Kosovo/Adem Jashari International,Pristina,Kosovo,19.0,60.0,3/15/25 10:39
+120,KWI,OKBK,Kuwait International,Kuwait City,Kuwait,12.0,98.0,3/15/25 10:39
+121,RIX,EVRA,Riga International,Riga,Latvia,2.0,13.0,3/15/25 10:39
+122,BEY,OLBA,Beirut Rafic Hariri International,Beirut,Lebanon,2.0,25.0,3/15/25 10:39
+123,VNO,EYVI,Vilnius International,Vilnius,Lithuania,4.0,27.0,3/15/25 10:39
+124,LUX,ELLX,Luxembourg Findel,Luxembourg,LUXEMBOURG,2.0,101.0,3/15/25 10:39
+125,MLE,VRMM,Male (Ibrahim Nasir)/Velana International,Male,Maldive Islands,6.0,72.0,3/15/25 10:39
+126,GAN,VRMG,Gan/Addu International,Male,Maldive Islands,2.0,26.0,3/15/25 10:39
+127,MLA,LMML,Malta International ,Malta,Malta,2.0,6.0,3/15/25 10:39
+128,MRU,FIMP,Mauritius - Sir Seewoosagur Ramgoolam Intl,MAURITIUS,Mauritania,5.0,200.0,3/15/25 10:39
+129,TIV,LYTV,Tivat,Tivat,Montenegro,11.0,74.0,3/15/25 10:39
+130,TGD,LYPG,Podgorica,Podgorica,Montenegro,5.0,3.0,3/15/25 10:39
+131,TNG,GMTT,Tanger/Ibn Batouta,Tangier,Morocco,9.0,186.0,3/15/25 10:39
+132,RAK,GMMX,Marrakech/Menara,Marrakech,Morocco,2.0,185.0,3/15/25 10:39
+133,AGA,GMAD,Agadir/Al Massira,Agadir,Morocco,2.0,18.0,3/15/25 10:39
+134,FEZ,GMFF,Fes/Saiss,Fes,Morocco,2.0,18.0,3/15/25 10:39
+135,AMS,EHAM,Amsterdam Schiphol,Amsterdam,Netherlands,390.0,2300.0,3/15/25 10:39
+136,RTM,EHRD,Rotterdam The Hague,Rotterdam,Netherlands,4.0,28.0,3/15/25 10:39
+137,EIN,EHEH,Eindhoven Airport,Eindhoven,Netherlands,2.0,16.0,3/15/25 10:39
+138,SKP,LWSK,Skopje International,Skopje,North Macedonia,15.0,13.0,3/15/25 10:39
+139,OSL,ENGM,Oslo Gardermoen,Oslo,Norway,5.0,52.0,3/15/25 10:39
+140,MCT,OOMS,Seeb/Muscat International ,Muscat,Oman,8.0,230.0,3/15/25 10:39
+141,SLL,OOSA,Salalah,Salalah,Oman,2.0,32.0,3/15/25 10:39
+142,WAW,EPWA,Warsaw Frederic Chopin,Warsaw,Poland,58.0,265.0,3/15/25 10:39
+143,KTW,EPKT,Katowice/Pyrzowice International,Katowice,Poland,15.0,68.0,3/15/25 10:39
+144,SZZ,EPSC,Szczecin/Goleniow,Szczecin,Poland,2.0,27.0,3/15/25 10:39
+145,RZE,EPRZ,Rzeszow-Jasionka International,Rzeszów,Poland,6.0,22.0,3/15/25 10:39
+146,POZ,EPPO,Poznan Lawica,Poznan,Poland,3.0,15.0,3/15/25 10:39
+147,GDN,EPGD,Gdansk Lech Walesa,Gdansk,Poland,2.0,14.0,3/15/25 10:39
+148,BZG,EPBY,Bydgoszcz,Bydgoszcz,Poland,2.0,13.0,3/15/25 10:39
+149,KRK,EPKK,Krakow/Balice John Paul II Intl,Krakow,Poland,2.0,13.0,3/15/25 10:39
+150,LCJ,EPLL,Lodz Lublinek,Lodz,Poland,2.0,12.0,3/15/25 10:39
+151,WRO,EPWR,Wroclaw Strachowice/Copernicus,Wroclaw,Poland,4.0,10.0,3/15/25 10:39
+152,LIS,LPPT,Lisbon International/Humberto Delgado,Lisbon,Portugal,59.0,530.0,3/15/25 10:39
+153,FNC,LPMA,Madeira,Funchal,Portugal,7.0,154.0,3/15/25 10:39
+154,OPO,LPPR,Porto (Oporto) Francisco Sa Carneiro,Porto,Portugal,2.0,26.0,3/15/25 10:39
+155,FAO,LPFR,Faro Algarve,Faro,Portugal,2.0,22.0,3/15/25 10:39
+156,PXO,LPPS,Porto Santo Airport,Porto Santo,Portugal,2.0,13.0,3/15/25 10:39
+157,DOH,OTBD,Doha - Hamad International,Doha,Qatar,2.0,26.0,3/15/25 10:39
+158,DUB,EIDW,Dublin,Dublin,Republic of Ireland,2.0,15.0,3/15/25 10:39
+159,OTP,LROP,Bucharest Henri Coanda International,Bucharest,Romania,2.0,15.0,3/15/25 10:39
+160,CLJ,LRCL,Cluj Avram Iancu International Airport,Cluj Napoca,Romania,2.0,10.0,3/15/25 10:39
+161,BAY,LRBM,Maramure»ô International Airport,Tăuții-Măgherăuș,Romania,2.0,9.0,3/15/25 10:39
+162,GHV,LRBV,Ghhimbav,Ghhimbav,Romania,2.0,9.0,3/15/25 10:39
+163,JED,OEJN,Jeddah/King Abdul Aziz Intl,Jeddah,Saudi Arabia,3.0,216.0,3/15/25 10:39
+164,BEG,LYBE,Belgrade/Beograd Nikola Tesla,Belgrade,Serbia,12.0,38.0,3/15/25 10:39
+165,INI,LYNI,Nis Constantine The Great,NIS,Serbia,2.0,13.0,3/15/25 10:39
+166,SEZ,FSIA,Mahe Island/Seychelles International,Seychelles,Seychelles Islands,3.0,13.0,3/15/25 10:39
+167,BTS,LZIB,M R Stefanika Bratislava,Bratislava,Slovakia,49.0,168.0,3/15/25 10:39
+168,KSC,LZKZ,Kosice,Kosice,Slovakia,42.0,81.0,3/15/25 10:39
+169,TAT,LZTT,Poprad-Tatry,Poprad,Slovakia,23.0,80.0,3/15/25 10:39
+170,LJU,LJLJ,Ljubljana/Brnik Joze Pucnik,Ljubljana,Slovenia,2.0,13.0,3/15/25 10:39
+171,MAD,LEMD,Adolfo Suarez Madrid Barajas,Madrid,Spain,219.0,1480.0,3/15/25 10:39
+172,AGP,LEMG,Malaga Costa del Sol,Malaga,Spain,70.0,560.0,3/15/25 10:39
+173,BCN,LEBL,Barcelona-El Prat,Barcelona,Spain,85.0,510.0,3/15/25 10:39
+174,PMI,LEPA,Palma de Mallorca,Palma,Spain,69.0,360.0,3/15/25 10:39
+175,ALC,LEAL,Alicante El Altet,Alicante,Spain,2.0,15.0,3/15/25 10:39
+176,VLC,LEVC,Valencia Manises,Valencia,Spain,2.0,15.0,3/15/25 10:39
+177,IBZ,LEIB,Ibiza,Ibiza,Spain,2.0,14.0,3/15/25 10:39
+178,FUE,GCFV,Fuerteventura,Fuerteventura,Spain,2.0,13.0,3/15/25 10:39
+179,GRX,LEGR,Federico Garcia Lorca Granada-Jaen/Granada,Granada,Spain,2.0,13.0,3/15/25 10:39
+180,SVQ,LEZL,Sevilla San Pablo,Sevilla,Spain,2.0,13.0,3/15/25 10:39
+181,GRO,LEGE,Girona Costa Brava,Girona,Spain,2.0,12.0,3/15/25 10:39
+182,ZAZ,LEZG,Zaragoza,Zaragoza,Spain,2.0,12.0,3/15/25 10:39
+183,ACE,GCRR,C√©sar Manrique-Lanzarote Airport,Lanzarote,Spain,2.0,9.0,3/15/25 10:39
+184,XRY,LEJR,Jerez Airport,Jerez de la Frontera,Spain,2.0,8.0,3/15/25 10:39
+185,HRI,VCRI,Hambantota/Mattala Rajapaksa International ,Hambantota,SRI LANKA,6.0,211.0,3/15/25 10:39
+186,CMB,VCBI,Colombo/Bandaranaike International,Colombo,SRI LANKA,2.0,10.0,3/15/25 10:39
+187,GOT,ESGG,Göteborg/Landvetter,Gothenburg,Sweden,2.0,26.0,3/15/25 10:39
+188,ARN,ESSA,Stockholm Arlanda,Stockholm,Sweden,2.0,13.0,3/15/25 10:39
+189,HAD,ESMT,Halmstad Airport,Halmstad,Sweden,2.0,8.0,3/15/25 10:39
+190,VXO,ESMX,V√§xj√∂ Kronoberg Airport,Vaxjo,Sweden,2.0,8.0,3/15/25 10:39
+191,ZRH,LSZH,ZURICH,ZURICH,Switzerland,154.0,560.0,3/15/25 10:39
+192,BSL,LFSB,Basel-Mulhouse,Basel,Switzerland,2.0,13.0,3/15/25 10:39
+193,GVA,LSGG,Geneva International,GENEVA,Switzerland,2.0,13.0,3/15/25 10:39
+194,ZNZ,HTZA,Zanzibar Abeid Amani Karume International,ZANZIBAR,Tanzania,7.0,248.0,3/15/25 10:39
+195,TFS,GCTS,Tenerife South - Reina Sofia,Tenerife,The Canary Islands,2.0,236.0,3/15/25 10:39
+196,TFN,GCXO,Tenerife North,Tenerife,The Canary Islands,7.0,95.0,3/15/25 10:39
+197,LPA,GCLP,Gran Canaria,Tenerife,The Canary Islands,2.0,24.0,3/15/25 10:39
+198,DJE,DTTJ,Djerba-Zarzis,Djerba,Tunisia,52.0,416.0,3/15/25 10:39
+199,NBE,DTNH,Enfidha International Hammamet,Enfidha,Tunisia,84.0,253.0,3/15/25 10:39
+200,MIR,DTMB,Monastir Habib Bourguiba International,Monastir,Tunisia,2.0,10.0,3/15/25 10:39
+201,AYT,LTAI,Antalya International,Antalya,Turkey,158.0,480.0,3/15/25 10:39
+202,BJV,LTFE,Mugla Milas Bodrum International,Milas,Turkey,53.0,182.0,3/15/25 10:39
+203,DLM,LTBS,Dalaman (Mugla),Dalaman,Turkey,24.0,84.0,3/15/25 10:39
+204,ADB,LTBJ,Izmir Adnan Menderes International,Izmir,Turkey,17.0,55.0,3/15/25 10:39
+205,ESB,LTAC,Ankara/Esenboga International,Ankara,Turkey,2.0,10.0,3/15/25 10:39
+206,GZP,LTFG,Alanya Gazipasa,Alanya,Turkey,2.0,10.0,3/15/25 10:39
+207,ISL,LTBA,Istanbul Ataturk International,Istanbul,Turkey,2.0,10.0,3/15/25 10:39
+208,NAV,LTAZ,Nevsehir Kapadokya International,Nevsehir,Turkey,2.0,10.0,3/15/25 10:39
+209,SAW,LTFJ,Istanbul Sabiha Gokcen International,Istanbul,Turkey,2.0,10.0,3/15/25 10:39
+210,DWC,OMDW,Al Maktoum International - Dubai South,Dubai,United Arab Emirates,14.0,227.0,3/15/25 10:39
+211,SHJ,OMSJ,Sharjah International,Sharjah,United Arab Emirates,12.0,226.0,3/15/25 10:39
+212,AUH,OMAA,Abu Dhabi International,Abu Dhabi,United Arab Emirates,2.0,26.0,3/15/25 10:39
+213,RKT,OMRK,Ras Al Khaimah International,Ras Al Khaimah,United Arab Emirates,2.0,26.0,3/15/25 10:39
+214,DXB,OMDB,Dubai International,Dubai,United Arab Emirates,2.0,15.0,3/15/25 10:39
+215,LHR,EGLL,London Heathrow,London,United Kingdom,268.0,1750.0,3/15/25 10:39
+216,LGW,EGKK,London Gatwick,London,United Kingdom,2.0,41.0,3/15/25 10:39
+217,EDI,EGPH,Edinburgh International,Edinburgh,United Kingdom,2.0,26.0,3/15/25 10:39
+218,BHX,EGBB,Birmingham International,BIRMINGHAM,United Kingdom,2.0,18.0,3/15/25 10:39
+219,BRS,EGGD,Bristol,Bristol,United Kingdom,2.0,18.0,3/15/25 10:39
+220,CWL,EGFF,Cardiff,Caerdydd,United Kingdom,2.0,18.0,3/15/25 10:39
+221,LTN,EGGW,London Luton,London,United Kingdom,2.0,18.0,3/15/25 10:39
+222,MAN,EGCC,Manchester,Manchester,United Kingdom,2.0,17.0,3/15/25 10:39
+223,BFS,EGAA,Belfast International (Aldergrove),Belfast,United Kingdom,2.0,16.0,3/15/25 10:39
+224,GLA,EGPF,Glasgow International,Glasgow,United Kingdom,2.0,15.0,3/15/25 10:39
+225,NCL,EGNT,Newcastle International ,Newcastle,United Kingdom,2.0,15.0,3/15/25 10:39
+226,STN,EGSS,London Stansted,London,United Kingdom,2.0,15.0,3/15/25 10:39
+227,LBA,EGNM,Leeds Bradford Airport,Yeadon,United Kingdom,2.0,4.0,3/15/25 10:39
+228,MME,EGNV,Teesside International Airport,Durham TIIS RAIN,United Kingdom,2.0,3.0,3/15/25 10:39
+229,SEN,EGMC,London Southend Airport,Southend-on-Sea,United Kingdom,2.0,2.0,3/15/25 10:39
+230,SOF,LBSF,SOF,Sofia,Bulgaria,1.0,5.0,3/15/25 10:39
+231,VAR,nz,Varna,Varna,Bulgaria,1.0,1.8,3/15/25 10:39
+232,BOJ,nzboj,Burgas,Burgas,Bulgaria,1.0,1.8,3/15/25 10:39
+233,PDV,nzPDV,Plovdiv,Plovdiv,Bulgaria,1.0,1.0,3/15/25 10:39
